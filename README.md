@@ -1,2 +1,1 @@
-# final_project_opencart_autotest
-Final project for OTUS learning 
+# Final Project for OTUS learning - autotests for OpenCart
